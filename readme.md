@@ -1,4 +1,5 @@
 ![alt text](image.png)
+![alt text](image-1.png)
 
 QRCODE DOCKER qr_codes/QRCode_20250630230047.png
 QRCODE GITHUB qr_codes/QRCode_20250630230251.png
